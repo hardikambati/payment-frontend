@@ -2,12 +2,17 @@
 
 ## Pre-requisites
 
-1. Make sure to add a `.env` file with the following config
+
+1. Make sure to add a .env file with the following config
     ```bash
     REACT_APP_BASE_URL=http://localhost:8000/api/v1
 
     REACT_APP_AUTH_TOKEN=<user_auth_token>
     ```
+
+2. Use this QR for scanning
+
+    ![Architecture](public/QR.png)
 
 ## Spinning up the server
 
